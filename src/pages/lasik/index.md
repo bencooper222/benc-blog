@@ -1,6 +1,6 @@
 ---
 title: Unorganized thoughts on LASIK
-date: '2021-01-21'
+date: '2021-01-23'
 spoiler: Reflections on my recent LASIK experience.
 ---
 
@@ -38,7 +38,7 @@ really hoping that this shitty beige medical room isn't the last thing you ever 
 surgery is very annoying, at best.
 
 Still! It's fucking wild this works! We went millennia without any vision correction, figured out eyeglasses around
-1300[^1], took another 600 years to figure out contacts, and figured out how to avoid corrective devices in most cases
+1300[^1], took another 600 years to figure out contacts and figured out how to avoid corrective devices in most cases
 just 100 years later. The results of science are cool. My hope is the progress on vision correction accelerates enough
 that by the time my vision starts deteriorating in my 40s, there's some process to fix that [^2].
 
@@ -123,14 +123,14 @@ same QoL nonsense that pervades the rest of American medicine - difficulty getti
 pharmacy delays, etc; all of that was here too. I didn't expect that for an _optional_ luxury procedure that presumably
 has a quite high-profit margin in a competitive area (eyeballing Google Maps, it looks like there are about 10 places
 around Chicago that do LASIK). All the typical Republican talking points about the free market really should apply here
-and they really don't. As a particular example of the , I called and requested a receipt (not automatically sent to me,
+and they really don't. As a particular example of this, I called and requested a receipt (not automatically sent to me,
 because of course not) and my options were snail-mail and fax. I hardly need to point out here that the ability to fax
 probably implies the ability to scan which implies the ability to email; the lack of an option to do so implies they
-don't give a shit.
+don't give a shit[^6].
 
 I don't really know what to do with this - and the people reading this, myself included, probably don't need to be
 persuaded about this - but with the caveats of N=1 in mind - it seems clear to me that if the free market doesn't get
-this procedure right, it's not going to get much right with respect to healthcare[^6]. Universal healthcare, whether
+this procedure right, it's not going to get much right with respect to healthcare[^7]. Universal healthcare, whether
 single-payer (Canada), single provider (U.K.), or some sort of regulated and subsidized free market system (Germany),
 doesn't have to be very good to represent a massive improvement. Maybe the equivalent of Ben Nelson (US Senator, D-NE,
 one of the deciding votes to pass Obamacare but also make it worse) in 20 years will believe this and won't pussyfoot
@@ -156,6 +156,11 @@ around with complicated exchanges and shit and just pass something straightforwa
   characterizing it as "most".
 
 [^6]:
+
+  When I finally received the receipt (one week later), it was a printed piece of paper in a hand-addressed envelope.
+  Everyone involved in the design and execution of the process of procuring that receipt should feel bad.
+
+[^7]:
 
   I should note here that Obamacare tried to create a system of electronic medical records which was a spectacular
   failure. Maybe someday.
