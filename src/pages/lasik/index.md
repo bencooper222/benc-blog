@@ -4,8 +4,6 @@ date: '2021-01-21'
 spoiler: Reflections on my recent LASIK experience.
 ---
 
-# Unorganized thoughts on LASIK
-
 I got LASIK recently. I have a few thoughts on the experience and its technology/economics.
 
 ## Holy fuck, it works
