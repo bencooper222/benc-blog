@@ -24,8 +24,8 @@ successful. Stories of it not working are the minority (see "Even good medical r
 Moreover, its improvement is tied to the relentless progress of technology in the way most medicine is not. As our laser
 technology improves, we can aim at the correct area of the cornea more accurately. The machine also uses eye-tracking
 (so it's always aiming at the correct part of the eye) and the processors and algorithms that enable the tracking have
-improved immensely since 1998. I'm sure the US will be late to this when it happens but one could easily imagine LASIK
-being as common as optometrists someday.
+improved immensely since 1998. One could easily imagine LASIK being as common as optometrists someday as the cost of
+lasers go down.
 
 FWIW, besides my left eye being unusually dry, I've suffered no side effects and have something between 20/15 and 20/20
 vision now.
@@ -40,7 +40,9 @@ surgery is very annoying, at best.
 Still! It's fucking wild this works! We went millennia without any vision correction, figured out eyeglasses around
 1300[^1], took another 600 years to figure out contacts and figured out how to avoid corrective devices in most cases
 just 100 years later. The results of science are cool. My hope is the progress on vision correction accelerates enough
-that by the time my vision starts deteriorating in my 40s, there's some process to fix that [^2].
+that by the time my vision starts deteriorating again in my 40s (the lens - the thing in your eye you change the shape
+of to change where you're focusing on starts to become less flexible around then), there's some process to fix that
+[^2].
 
 ## It's weirder being able to see than I expected
 
@@ -57,8 +59,8 @@ an economic model of extraordinary stupidity that benefits nobody except a few m
 I paid $4,000 for LASIK. It's usually $5,000 (they had a sale) but that's also because I went to a place with the best
 laser. I probably could have saved around half if I went with an older - but still FDA-certified and everything - laser.
 I originally projected LASIK to save me money in the long run (I've wanted it for about 4 years). I was spending around
-$400 a year in contacts. LASIK is estimated to last around 20 years (that's around when non-corneal vision problems start cropping up) so I would have saved around $4,000
-and avoided the downsides of contacts[^3].
+$400 a year in daily contacts. LASIK is estimated to last around 20 years (that's around when non-corneal vision problems start cropping up) so I would have saved around $4,000
+over that time-span and avoided the downsides of contacts[^3].
 
 However, I recently started a job and got vision "insurance". Insurance is a misnomer there, they don't actually insure
 your eye (in general, if you develop an eye disease or hurt your eye, that's the purview of your general health
@@ -99,8 +101,8 @@ a harder recovery. Not great.
 ## Even good medical resources are bad
 
 The meme that WebMD will tell you literally any symptom is cancer is well deserved. But WebMD is trying to ride the SEO
-dragon and get clicks so whatever, good on them for finding a business model. On the other hand, Mayo Clinic brands
-itself as a serious online medical resource. However, if you go to
+dragon and get clicks so whatever, good on them for finding a business model, I guess. On the other hand, Mayo Clinic
+brands itself as a serious online medical resource. However, if you go to
 [their page](https://www.mayoclinic.org/tests-procedures/lasik-eye-surgery/about/pac-20384774) on LASIK, you're treated
 to (after a good explanation of how it works, to be fair), a large enumeration of the risks with absolutely no context
 on how likely they are. Buried at the end is that the surgery works for more than 8/10 people (itself, a very
